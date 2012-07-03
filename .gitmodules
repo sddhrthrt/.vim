@@ -16,3 +16,9 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/sessions"]
+	path = bundle/sessions
+	url = git://github.com/vim-scripts/sessions.vim.git
